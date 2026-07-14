@@ -804,7 +804,7 @@ function sendOrderToWhatsApp() {
     }
 
     // Teléfono de Burger Bike's (Número dummy de prueba, se puede cambiar)
-    const phoneNumber = '521234567890'; 
+    const phoneNumber = '4497181129'; 
 
     // Cabecera del mensaje
     let message = `🏍️ *BURGER BIKE'S - NUEVO PEDIDO* 🏍️\n`;
